@@ -9,15 +9,15 @@ library(magick)
 
 resize_image <- function(image) {
   
-  imFile <- image_read(here::here(paste0("_gallery/img/", image)))
+  imFile <- image_read(here::here(paste0("gallery/img/", image)))
   imFile_resized <- magick::image_resize(imFile, "6%")
-  magick::image_write(imFile_resized, here::here(paste0("_gallery/img/thumb-", image)))
+  magick::image_write(imFile_resized, here::here(paste0("gallery/img/thumb-", image)))
   
 }
 
 make_gallery_layout <- function() {
   
-  images <- list.files("_gallery/img")
+  images <- list.files("gallery/img")
   images_full_size <- grep("thumb", images, 
                            value = TRUE, invert = TRUE)
   images_thumb <- grep("thumb", images, value = TRUE)
@@ -27,8 +27,8 @@ make_gallery_layout <- function() {
   
   tagList(apply(images, 1, function(x) {
     tags$a(
-      href = paste0("_gallery/img/", x[["images_full_size"]]),
-      tags$img(src = paste0("_gallery/img/", x[["images_thumb"]]))
+      href = paste0("gallery/img/", x[["images_full_size"]]),
+      tags$img(src = paste0("gallery/img/", x[["images_thumb"]]))
     )
   }))
   

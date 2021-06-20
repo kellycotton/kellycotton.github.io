@@ -1861,8 +1861,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Roboto');
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono');
+  
   
   
   html {
@@ -1879,10 +1881,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --aside-color:     rgba(0, 0, 0, 0.6);
     --fig-cap-color:   rgba(0, 0, 0, 0.6);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    "Monteserrat", sans-serif;
-    --mono-font:       monospace;
-    --body-font:       "Roboto", sans-serif;
-    --navbar-font:     "Monteserrat", sans-serif;  /* websites + blogs only */
+    --heading-font:    "Quicksand";
+    --mono-font:       "Space Mono", monospace;
+    --body-font:       "Noto Sans", sans-serif;
+    --navbar-font:     "Quicksand";  /* websites + blogs only */
   }
   
   /*-- ARTICLE METADATA --*/
@@ -1926,8 +1928,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   
   /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
+  /* Add any additional CSS rules below */
+  
+  .distill-site-header { 
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  body {
+    background-color: #FAF9F0;
+  }</style>
   <style type="text/css">
   /* base style */
   
