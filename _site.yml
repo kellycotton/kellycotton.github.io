@@ -1,0 +1,32 @@
+name: "kelly_cotton"
+title: "Kelly Cotton"
+description: |
+  Kelly Cotton
+output_dir: "docs"
+navbar:
+  right:
+    - icon: fa-home
+      href: index.html
+    - text: "Research"
+      menu:
+        - text: "Projects"
+          href: research.html
+        - text: "Publications"
+          href: pubs.html
+    - text: "Other"
+      menu:
+        - text: "Public Writing"
+          href: writing.html
+        - text: "Data Visualizations"
+          href: viz.html
+    - text: "CV"
+      href: cv.pdf
+    - icon: fab fa-github
+      href: https://github.com/kellycotton
+    - icon: fas fa-graduation-cap
+      href: https://scholar.google.com/citations?user=uOV5HbUAAAAJ&hl=en
+    - icon: fas fa-envelope
+      href: 'mailto:kcotton@gradcenter.cuny.edu'
+  search: false
+output: distill::distill_article
+theme: theme.css

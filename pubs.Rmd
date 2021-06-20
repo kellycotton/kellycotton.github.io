@@ -1,0 +1,16 @@
+---
+title: "Publications"
+description:
+output: distill::distill_article
+---
+
+**Cotton, K.** & Ricker, T.J. (2020). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 47(2), 208–219*. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954) 
+
+**Cotton, K.**, Verghese, J., & Blumen, H. M. (2020). Gray Matter Volume Covariance Networks, Social Support, and Cognition in Older Adults. *The Journals of Gerontology: Series B*, 75(6), 1219-1229. [doi:10.1093/geronb/gbz023](https://doi.org/10.1093/geronb/gbz023)
+
+Mahoney, J. R., **Cotton, K.**, & Verghese, J. (2019). Multisensory integration predicts balance and falls in older adults. *The Journals of Gerontology: Series A*, 74(9), 1429-1435. [doi:10.1093/gerona/gly245](https://doi.org/10.1093/gerona/gly245)
+
+Lin, F., Ren, P., **Cotton, K.**, Porsteinsson, A., Mapstone, M., & Heffner, K. L. (2016). Mental Fatigability and Heart Rate Variability in Mild Cognitive Impairment. *The American Journal of Geriatric Psychiatry*, 24(5), 374-378. [doi:10.1016/j.jagp.2015.12.012](https://doi.org/10.1016/j.jagp.2015.12.012)
+
+
+

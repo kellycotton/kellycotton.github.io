@@ -1,0 +1,16 @@
+---
+title: "Public Writing"
+description: 
+output: distill::distill_article
+---
+
+[*Our memories of shared experiences have unique neural signatures*](https://massivesci.com/notes/neuroscience-imaging-events-individual-activity/) <br />
+Massive Science, January 2021
+
+[*Plants can grow quickly or accurately, but not both*](https://massivesci.com/notes/plant-speed-accuracy-trade-off-growth/) <br />
+Massive Science, November 2020
+
+
+
+
+

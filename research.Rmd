@@ -1,0 +1,20 @@
+---
+title: "Research"
+description: |
+  How does information in working memory become information in long-term memory?
+output: distill::distill_article
+---
+
+My research focuses on the relationship between working memory and long-term memory, particularly how working memory processing can affect our long-term memory performance.
+
+#### What is the relationship between working memory consolidation and long-term memory?
+This [project](https://osf.io/4xe9t/) looked at how manipulating working memory consolidation influences subsequent delayed recognition performance. [Article](https://doi.org/10.1037/xlm0000954)
+
+#### Do similar processes underlie creativity and working memory consolidation?
+
+#### How does mind-wandering affect working memory performance?
+
+
+
+
+
