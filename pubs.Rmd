@@ -4,6 +4,8 @@ description:
 output: distill::distill_article
 ---
 
+**Cotton, K.** & Ricker, T.J. (Under Review). Examining the relationship between working memory consolidation and long-term consolidation. 
+
 **Cotton, K.** & Ricker, T.J. (2020). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 47(2), 208–219*. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954) 
 
 **Cotton, K.**, Verghese, J., & Blumen, H. M. (2020). Gray Matter Volume Covariance Networks, Social Support, and Cognition in Older Adults. *The Journals of Gerontology: Series B*, 75(6), 1219-1229. [doi:10.1093/geronb/gbz023](https://doi.org/10.1093/geronb/gbz023)

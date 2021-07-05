@@ -4,6 +4,9 @@ description:
 output: distill::distill_article
 ---
 
+[*Can we talk to people while they are dreaming? And can they talk back?*](https://cogbites.org/2021/07/05/can-we-talk-to-people-while-they-are-dreaming-and-can-they-talk-back/)<br />
+CogBites, July 2021
+
 [*Our memories of shared experiences have unique neural signatures*](https://massivesci.com/notes/neuroscience-imaging-events-individual-activity/) <br />
 Massive Science, January 2021
 
