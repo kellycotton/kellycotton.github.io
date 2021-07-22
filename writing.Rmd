@@ -4,6 +4,9 @@ description:
 output: distill::distill_article
 ---
 
+[*A sweeping study shows that “brain training” games are not effective*](https://massivesci.com/notes/brain-training-learning-cognition-memory/) <br />
+Massive Science, July 2021
+
 [*Can we talk to people while they are dreaming? And can they talk back?*](https://cogbites.org/2021/07/05/can-we-talk-to-people-while-they-are-dreaming-and-can-they-talk-back/)<br />
 CogBites, July 2021
 
