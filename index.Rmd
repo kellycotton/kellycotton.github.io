@@ -17,7 +17,7 @@ output:
 
 I am currently a PhD candidate at the City University of New York in the Cognitive and Comparative Psychology program at the [Memory & Attention Lab](https://www.rickermemorylab.com/) under Dr. Timothy Ricker. My interests include working memory, long-term memory, and how these functions differ in various populations. I’m particularly interested in using neuroimaging and eye-tracking to answer questions about human cognition. I'm also interested in [science communication](https://kellycotton.github.io/writing.html).
 
-I graduated from the University of Rochester with a dual B.S./B.A. in Brain & Cognitive Sciences and Linguistics. Previously, I worked in the [Division of Cognitive and Motor Aging at the Albert Einstein College of Medicine](https://www.einstein.yu.edu/departments/neurology/divisions/CognitiveMotorAging/CREM.aspx) investigating computer-based cognitive remediation programs to improve cognition and mobility.
+I graduated from the University of Rochester with a dual B.S./B.A. in Brain & Cognitive Sciences and Linguistics. Previously, I worked in the [Division of Cognitive and Motor Aging at the Albert Einstein College of Medicine](https://www.einstein.yu.edu/departments/neurology/divisions/CognitiveMotorAging/CREM.aspx) investigating [computer-based cognitive remediation programs to improve cognition and mobility](https://doi.org/10.1016/S2666-7568(21)00173-2).
 
 You can reach me at kcotton@gradcenter.cuny.edu.
 
