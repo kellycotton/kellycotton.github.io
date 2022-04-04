@@ -10,10 +10,15 @@ library(magick)
 resize_image <- function(image) {
   
   imFile <- image_read(here::here(paste0("gallery/img/", image)))
-  imFile_resized <- magick::image_resize(imFile, "6%")
+  imFile_resized <- magick::image_resize(imFile, "10%")
   magick::image_write(imFile_resized, here::here(paste0("gallery/img/thumb-", image)))
   
 }
+
+
+list_png <- list.files("gallery/img")
+list_png <- grep("thumb", list_png, invert = TRUE, value = TRUE)
+lapply(list_png, resize_image)
 
 make_gallery_layout <- function() {
   
