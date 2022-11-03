@@ -5,7 +5,7 @@ description: |
 output: distill::distill_article
 ---
 
-My research focuses on the relationship between working memory and long-term memory, particularly how working memory processing can affect our long-term memory performance.
+My research focuses on the relationship between working memory and long-term memory, particularly how working memory processing can affect our long-term memory performance and other factors that influence this relationship.
 
 #### What is the relationship between working memory consolidation and long-term memory?
 This [project](https://osf.io/4xe9t/) looked at how manipulating working memory consolidation influences subsequent delayed recognition performance. [Read more here.](https://doi.org/10.1037/xlm0000954)
@@ -13,7 +13,7 @@ This [project](https://osf.io/4xe9t/) looked at how manipulating working memory 
 This [review](https://doi.org/10.3758/s13423-022-02084-2) also explores how working memory consolidation and long-term consolidation may be related.
 
 #### What factors influence the effects of working memory processing on long-term memory?
-This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creative ability** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
+This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creativity** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
 
 This [ongoing project](./research/mindwandering.pdf) is exploring how **mind-wandering** impacts working memory performance, particularly across different experimental contexts. 
 
