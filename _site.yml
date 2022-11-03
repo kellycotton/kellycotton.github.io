@@ -19,6 +19,8 @@ navbar:
           href: writing.html
         - text: "Data Visualizations"
           href: viz.html
+        - text: "Experiments"
+          href: exp.html
     - text: "CV"
       href: cv.pdf
     - icon: fab fa-github

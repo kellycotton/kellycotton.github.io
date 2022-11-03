@@ -12,12 +12,12 @@ This [project](https://osf.io/4xe9t/) looked at how manipulating working memory 
 
 This [review](https://doi.org/10.3758/s13423-022-02084-2) also explores how working memory consolidation and long-term consolidation may be related.
 
-#### What factors influence the relationship between working memory consolidation and long-term memory?
-This [ongoing project](./research/creativity.pdf) is exploring how cognitive mechanisms supporting working memory consolidation are related to **creative ability**.
+#### What factors influence the effects of working memory processing on long-term memory?
+This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creative ability** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
 
 This [ongoing project](./research/mindwandering.pdf) is exploring how **mind-wandering** impacts working memory performance, particularly across different experimental contexts. 
 
-Another project explores how **acute and chronic stress** may impact the working memory/long-term memory relationship.
+The first part of this [ongoing project](./research/stress.pdf) explores how **acute stress** may impact the working memory processing.
 
 
 
