@@ -6,15 +6,11 @@ output: distill::distill_article
 
 Studies with publicly posted datasets are linked below. If you'd like a copy of any of the articles, please email me!
 
-**Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)
-
-[dataset](https://osf.io/n4d7f/)
+**Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)   **[dataset](https://osf.io/n4d7f/)**
 
 **Cotton, K.** & Ricker, T.J. (2022). Examining the relationship between working memory consolidation and long-term consolidation. *Psychonomic Bulletin and Review*, 29(5), 1625-1648. [doi: 10.3758/s13423-022-02084-2](https://doi.org/10.3758/s13423-022-02084-2)
 
-**Cotton, K.** & Ricker, T.J. (2021). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(2), 208–219. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954) 
-
-[dataset](https://osf.io/4xe9t/)
+**Cotton, K.** & Ricker, T.J. (2021). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(2), 208–219. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954)   **[dataset](https://osf.io/4xe9t/)**
 
 **Cotton, K.**, Verghese, J., & Blumen, H. M. (2020). Gray Matter Volume Covariance Networks, Social Support, and Cognition in Older Adults. *The Journals of Gerontology: Series B*, 75(6), 1219-1229. [doi:10.1093/geronb/gbz023](https://doi.org/10.1093/geronb/gbz023)
 
