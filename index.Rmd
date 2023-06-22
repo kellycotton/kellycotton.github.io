@@ -10,7 +10,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/kllycttn"
   - label: Email
-    url: "mailto:kcotton@gradcenter.cuny.edu"
+    url: "mailto:kelly.cotton@einsteinmed.edu"
 output:
   postcards::trestles
 ---
@@ -21,6 +21,6 @@ My research interests primarily focus on cognitive function across the lifespan,
 
 I completed my PhD in Cognitive and Comparative Psychology at the City University of New York, Graduate Center and graduated from the University of Rochester with a B.S./B.A. in Brain & Cognitive Sciences and Linguistics. 
 
-You can reach me at kcotton@gradcenter.cuny.edu.
+You can reach me at kelly.cotton@einsteinmed.edu.
 
 
