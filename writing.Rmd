@@ -4,6 +4,9 @@ description:
 output: distill::distill_article
 ---
 
+[*Why you should check–not just test–your statistical assumptions*](https://featuredcontent.psychonomic.org/why-you-should-check-not-just-test-your-statistical-assumptions/) <br />
+Psychonomic Society, Julys 2023
+
 [*Cognitive spendthrifts: How human biases may stem from more complicated–not simple–processing*](https://featuredcontent.psychonomic.org/cognitive-spendthrifts-how-human-biases-may-stem-from-more-complicated-not-simple-processing/) <br />
 Psychonomic Society, April 2023
 
