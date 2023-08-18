@@ -6,6 +6,8 @@ output: distill::distill_article
 
 Studies with publicly posted datasets are linked below. If you'd like a copy of any of the articles, please email me!
 
+**Cotton, K.**, Sandry, J. & Ricker, T.J. (2023) Secondary task engagement drives the McCabe effect in long-term memory. *Memory & Cognition*. [doi:10.3758/s13421-023-01450-2](https://doi.org/10.3758/s13421-023-01450-2) **[dataset](https://osf.io/e3fqu/)**
+
 **Cotton, K.**, Sandry, J., & Ricker, T.J. (2023). The effects of mind-wandering, cognitive load and task engagement on working memory performance in remote online experiments. *Psyarxiv*. [doi:10.31234/osf.io/z7nju](https://doi.org/10.31234/osf.io/z7nju)   **[dataset](https://osf.io/wnvcj/)**
 
 **Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)   **[dataset](https://osf.io/n4d7f/)**
