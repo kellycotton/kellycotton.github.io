@@ -5,7 +5,7 @@ title: "Research"
 output: distill::distill_article
 ---
 
-My research focuses on understanding cognition across the lifespan, with a particular focus on the the relationship between working memory and long-term memory.
+My research focuses on understanding cognition across the lifespan, with a particular focus on the relationship between working memory and long-term memory.
 
 #### What is the relationship between working memory consolidation and long-term memory and what factors influence this relationship?
 This [project](https://osf.io/4xe9t/) looked at how manipulating working memory consolidation influences subsequent delayed recognition performance. [Read more here.](https://doi.org/10.1037/xlm0000954)
