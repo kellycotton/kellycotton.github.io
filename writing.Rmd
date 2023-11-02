@@ -4,8 +4,11 @@ description:
 output: distill::distill_article
 ---
 
+[*Taking things at face value: How social hierarchy influences perception*](https://featuredcontent.psychonomic.org/taking-things-at-face-value-how-social-hierarchy-influences-perception/) <br />
+Psychonomic Society, November 2023
+
 [*Why you should check–not just test–your statistical assumptions*](https://featuredcontent.psychonomic.org/why-you-should-check-not-just-test-your-statistical-assumptions/) <br />
-Psychonomic Society, Julys 2023
+Psychonomic Society, July 2023
 
 [*Cognitive spendthrifts: How human biases may stem from more complicated–not simple–processing*](https://featuredcontent.psychonomic.org/cognitive-spendthrifts-how-human-biases-may-stem-from-more-complicated-not-simple-processing/) <br />
 Psychonomic Society, April 2023
