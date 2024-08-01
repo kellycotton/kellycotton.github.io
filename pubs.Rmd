@@ -6,9 +6,13 @@ output: distill::distill_article
 
 Studies with publicly posted datasets are linked below. If you'd like a copy of any of the articles, please email me!
 
-**Cotton, K.**, Sandry, J. & Ricker, T.J. (2023) Secondary task engagement drives the McCabe effect in long-term memory. *Memory & Cognition*. [doi:10.3758/s13421-023-01450-2](https://doi.org/10.3758/s13421-023-01450-2) **[dataset](https://osf.io/e3fqu/)**
+**Cotton, K.**, Ayers, E., Jin, Y., Beauchet, O., Derby, C. A., Lipton, R. B., Katz, M., Galery, K., Gaudreau, P., Verghese, J. (2024). Elevated blood homocysteine increases the risk of incident Motoric Cognitive Risk syndrome: A two cohort study. *Journals of Gerontology: Series A*, 79(7). [doi:10.1093/gerona/glae114](https://doi.org/10.1093/gerona/glae114)
 
-**Cotton, K.**, Sandry, J., & Ricker, T.J. (2023). The effects of mind-wandering, cognitive load and task engagement on working memory performance in remote online experiments. *Psyarxiv*. [doi:10.31234/osf.io/z7nju](https://doi.org/10.31234/osf.io/z7nju)   **[dataset](https://osf.io/wnvcj/)**
+**Cotton, K.** & Verghese, J. (2024). Dementia in Taiwan. *Archives of Gerontology and Geriatrics*, 121, 105415. [doi:10.1016/j.archger.2024.105415](https://doi.org/10.1016/j.archger.2024.105415)
+
+**Cotton, K.**, Sandry, J. & Ricker, T. J. (2024). The effect of mind-wandering, cognitive load and task engagement on working memory performance in remote online experiments. *Experimental Psychology*, 70(5), 271–284. [doi:10.31234/osf.io/z7nju](https://doi.org/10.31234/osf.io/z7nju)  **[dataset](https://osf.io/wnvcj/)**
+
+**Cotton, K.**, Sandry, J. & Ricker, T.J. (2023) Secondary task engagement drives the McCabe effect in long-term memory. *Memory & Cognition*. [doi:10.3758/s13421-023-01450-2](https://doi.org/10.3758/s13421-023-01450-2) **[dataset](https://osf.io/e3fqu/)**
 
 **Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)   **[dataset](https://osf.io/n4d7f/)**
 
