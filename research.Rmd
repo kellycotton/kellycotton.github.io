@@ -14,13 +14,13 @@ This [review](https://doi.org/10.3758/s13423-022-02084-2) explores how working m
 
 This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creativity** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
 
-These [ongoing](https://osf.io/wnvcj/) [projects](https://osf.io/e3fqu/) are exploring how **mind-wandering** impacts working memory and long-term memory performance, particularly across different experimental contexts. Read more [here](https://doi.org/10.3758/s13421-023-01450-2) or [here](https://doi.org/10.31234/osf.io/z7nju).
+[These](https://osf.io/wnvcj/) [projects](https://osf.io/e3fqu/) explored how **mind-wandering** impacts working memory and long-term memory performance, particularly across different experimental contexts. Read more [here](https://doi.org/10.3758/s13421-023-01450-2) or [here](https://doi.org/10.31234/osf.io/z7nju).
 
-The first part of this [ongoing project](./research/stress.pdf) explores how **acute stress** may impact the working memory processing.
+The first part of this [project](./research/stress.pdf) explores how **acute stress** may impact working memory processing.
 
 #### What factors affect cognition in older adults? 
 
-This [project]((https://doi.org/10.1093/geronb/gbz023)) looked at the neural substrates related to perceived **social support** in older adults and the links to cognitive function. 
+This [project](https://doi.org/10.1093/geronb/gbz023) looked at the neural substrates related to perceived **social support** in older adults and the links to cognitive function. 
 
 
 
