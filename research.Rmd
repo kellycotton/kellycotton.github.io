@@ -5,23 +5,32 @@ title: "Research"
 output: distill::distill_article
 ---
 
-My research focuses on understanding cognition across the lifespan, with a particular focus on the relationship between working memory and long-term memory.
+My research focuses on understanding cognition across the lifespan, with a particular focus on executive function and memory in older adults.
 
-#### What is the relationship between working memory consolidation and long-term memory and what factors influence this relationship?
+### What factors affect cognition in older adults? 
+
+This [review](https://doi.org/10.1016/j.jamda.2024.105454) highlights the key findings of research using the Walking While Talking test, an assessment of dual-task cognitive-motor performance.
+
+This [project](https://doi.org/10.1093/geronb/gbae174) examined the demographic, health, and lifestyle correlates and underlying neural substrates of **subjective well-being** in older adults.
+
+This [project](https://doi.org/10.1093/geronb/gbz023) looked at the neural substrates related to perceived **social support** in older adults and the links to cognitive function. 
+
+### What is the relationship between working memory and long-term memory and what factors influence this relationship?
 This [project](https://osf.io/4xe9t/) looked at how manipulating working memory consolidation influences subsequent delayed recognition performance. [Read more here.](https://doi.org/10.1037/xlm0000954)
 
 This [review](https://doi.org/10.3758/s13423-022-02084-2) explores how working memory consolidation and long-term consolidation may be related.
 
-This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creativity** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
+[These](https://osf.io/wnvcj/) [projects](https://osf.io/e3fqu/) explored how **task engagement** and **mind-wandering** impact working memory and long-term memory performance, particularly across different experimental contexts. Read more [here](https://doi.org/10.3758/s13421-023-01450-2) or [here](https://doi.org/10.31234/osf.io/z7nju).
 
-[These](https://osf.io/wnvcj/) [projects](https://osf.io/e3fqu/) explored how **mind-wandering** impacts working memory and long-term memory performance, particularly across different experimental contexts. Read more [here](https://doi.org/10.3758/s13421-023-01450-2) or [here](https://doi.org/10.31234/osf.io/z7nju).
+This [project](https://osf.io/n4d7f/) explored how cognitive mechanisms supporting working memory consolidation are related to **creativity** and subsequent long-term retention. [Read more here.](https://doi.org/10.3758/s13414-022-02598-w)
 
 The first part of this [project](./research/stress.pdf) explores how **acute stress** may impact working memory processing.
 
-#### What factors affect cognition in older adults? 
+### Other projects
 
-This [project](https://doi.org/10.1093/geronb/gbz023) looked at the neural substrates related to perceived **social support** in older adults and the links to cognitive function. 
+These projects psychometrically validated Malayalam translations of the [Apathy Evaluation Scale](https://doi.org/10.1177/02537176241276749) and the [Subjective Happiness Scale](https://doi.org/10.1007/s11205-024-03448-y).
 
+This [project](https://doi.org/10.1093/gerona/glae114) investigated the association between elevated homocysteine levels and risk of Motoric Cognitive Risk syndrome, a predementia syndrome characterized by cognitive complaints and slow gait.
 
 
 

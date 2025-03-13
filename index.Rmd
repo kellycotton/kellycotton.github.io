@@ -7,20 +7,20 @@ links:
     url: "https://scholar.google.com/citations?user=uOV5HbUAAAAJ&hl=en"
   - label: GitHub
     url: "https://github.com/kellycotton"
-  - label: Twitter
-    url: "https://twitter.com/kllycttn"
+  - label: Bluesky
+    url: "https://bsky.app/profile/kllycttn.bsky.social"
   - label: Email
-    url: "mailto:kelly.cotton@einsteinmed.edu"
+    url: "mailto:kelly.cotton@stonybrookmedicine.edu"
 output:
   postcards::trestles
 ---
 
-I am currently a postdoctoral researcher at the Albert Einstein College of Medicine in the [Division of Cognitive and Motor Aging](https://www.einsteinmed.edu/departments/neurology/divisions/cognitivemotoraging/dcma.aspx).
+I am currently a Research Assistant Professor in Neurology at Stony Brook University.
 
-My research interests primarily focus on cognitive function across the lifespan, with a particular interest in the relationship between working memory and long-term memory. I use behavioral methods, neuroimaging, and eye-tracking to answer questions about human cognition. I'm also interested in [science communication](https://kellycotton.github.io/writing.html).
+My research interests primarily focus on cognitive function across the lifespan, with a particular interest in executive function and memory in older adults. I use behavioral methods, neuroimaging, and eye-tracking to answer questions about human cognition. I'm also interested in [science communication](https://kellycotton.github.io/writing.html).
 
-I completed my PhD in Cognitive and Comparative Psychology at the City University of New York, Graduate Center and graduated from the University of Rochester with a B.S./B.A. in Brain & Cognitive Sciences and Linguistics. 
+I completed my PhD in Cognitive and Comparative Psychology at the City University of New York, Graduate Center and graduated from the University of Rochester with a B.S./B.A. in Brain & Cognitive Sciences and Linguistics. I was a postdoctoral researcher at the Albert Einstein College of Medicine.
 
-You can reach me at kelly.cotton@einsteinmed.edu.
+You can reach me at kelly.cotton@stonybrookmedicine.edu.
 
 

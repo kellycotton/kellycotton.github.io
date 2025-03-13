@@ -6,19 +6,41 @@ output: distill::distill_article
 
 Studies with publicly posted datasets are linked below. If you'd like a copy of any of the articles, please email me!
 
+# 2025
+
+Leroy, V., Chen, Y., Brocquet, E., Labreuche, J., Gaxatte, C., **Cotton, K.**, Roche, J., Huvent, D., & Puisieux, F. (2025). Is the FAB test associated with fall occurrence in older adults? A retrospective analysis of outpatient fall risk assessment. *European Geriatric Medicine*. [doi:10.1007/s41999-024-01134-3](https://doi.org/10.1007/s41999-024-01134-3)
+
+**Cotton, K.** & Verghese, J. (2025). Two Decades of the Walking While Talking Test: A Narrative Review. *Journal of the American Medical Directors Association*, 26(3). [doi:10.1016/j.jamda.2024.105454](https://doi.org/10.1016/j.jamda.2024.105454)
+
+**Cotton, K.**, Sathyan, S., Jacob, S., Shaji, K.S., Ayers, E., Adhikari, D., Sigamani, A., Pradeep, V.G., & Verghese, J. (2025). Translation and validation of the Malayalam version of the Subjective Happiness Scale. *Social Indicators Research*, 176(1), 245-255. [doi:10.1007/s11205-024-03448-y](https://doi.org/10.1007/s11205-024-03448-y) 
+
+# 2024
+
+**Cotton, K.**, Blumen, H.M, Ayers, E., Adhikari, D., Sigamani, A., Pradeep, V.G., & Verghese, J. (2024). Correlates and brain substrates of happiness in community-dwelling older adults in India. *Journals of Gerontology: Series B*, 79(12). [doi:10.1093/geronb/gbae174](https://doi.org/10.1093/geronb/gbae174)
+
+**Cotton, K.**, Shaji, K.S., Sathyan, S., Ayers, E., Adhikari, D., Ceïde, M.E., Sigamani, A., Pradeep Kumar, V.G., & Verghese, J. (2024). Validation of the Malayalam version of the Apathy Evaluation Scale. *Indian Journal of Psychological Medicine*. [doi:10.1177/02537176241276749](https://doi.org/10.1177/02537176241276749)
+
+Pollak, C., **Cotton, K.**, Winter, J., & Blumen, H.M. (2024). Health outcomes associated with loneliness and social isolation in older adults living with HIV: A systematic review and meta-analysis. *AIDS and Behavior*, 29, 166-186. [doi:10.1007/s10461-024-04471-3](https://doi.org/10.1007/s10461-024-04471-3)
+
 **Cotton, K.**, Ayers, E., Jin, Y., Beauchet, O., Derby, C. A., Lipton, R. B., Katz, M., Galery, K., Gaudreau, P., Verghese, J. (2024). Elevated blood homocysteine increases the risk of incident Motoric Cognitive Risk syndrome: A two cohort study. *Journals of Gerontology: Series A*, 79(7). [doi:10.1093/gerona/glae114](https://doi.org/10.1093/gerona/glae114)
 
 **Cotton, K.** & Verghese, J. (2024). Dementia in Taiwan. *Archives of Gerontology and Geriatrics*, 121, 105415. [doi:10.1016/j.archger.2024.105415](https://doi.org/10.1016/j.archger.2024.105415)
 
-**Cotton, K.**, Sandry, J. & Ricker, T. J. (2024). The effect of mind-wandering, cognitive load and task engagement on working memory performance in remote online experiments. *Experimental Psychology*, 70(5), 271–284. [doi:10.31234/osf.io/z7nju](https://doi.org/10.31234/osf.io/z7nju)  **[dataset](https://osf.io/wnvcj/)**
+**Cotton, K.**, Sandry, J. & Ricker, T. J. (2024). The effect of mind-wandering, cognitive load and task engagement on working memory performance in remote online experiments. *Experimental Psychology*, 70(5), 271–284. [doi:10.31234/osf.io/z7nju](https://doi.org/10.31234/osf.io/z7nju)  \newline **[dataset](https://osf.io/wnvcj/)**
 
-**Cotton, K.**, Sandry, J. & Ricker, T.J. (2023) Secondary task engagement drives the McCabe effect in long-term memory. *Memory & Cognition*. [doi:10.3758/s13421-023-01450-2](https://doi.org/10.3758/s13421-023-01450-2) **[dataset](https://osf.io/e3fqu/)**
+# 2023
 
-**Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)   **[dataset](https://osf.io/n4d7f/)**
+**Cotton, K.**, Sandry, J. & Ricker, T.J. (2023) Secondary task engagement drives the McCabe effect in long-term memory. *Memory & Cognition*, 52 (8), 1762-1774. [doi:10.3758/s13421-023-01450-2](https://doi.org/10.3758/s13421-023-01450-2) \newline **[dataset](https://osf.io/e3fqu/)**
+
+# 2022
+
+**Cotton, K.** & Ricker, T.J. (2022). Is there a role of creativity in the relationship between working memory consolidation and long-term memory? *Attention, Perception, and Psychophysics*, 85 (5), 1550-1565. [doi:10.3758/s13414-022-02598-w](https://doi.org/10.3758/s13414-022-02598-w)   \newline **[dataset](https://osf.io/n4d7f/)**
 
 **Cotton, K.** & Ricker, T.J. (2022). Examining the relationship between working memory consolidation and long-term consolidation. *Psychonomic Bulletin and Review*, 29(5), 1625-1648. [doi: 10.3758/s13423-022-02084-2](https://doi.org/10.3758/s13423-022-02084-2)
 
-**Cotton, K.** & Ricker, T.J. (2021). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(2), 208–219. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954)   **[dataset](https://osf.io/4xe9t/)**
+# 2021 and older
+
+**Cotton, K.** & Ricker, T.J. (2021). Working memory consolidation improves long-term memory recognition. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(2), 208–219. [doi:10.1037/xlm0000954](https://doi.org/10.1037/xlm0000954)   \newline **[dataset](https://osf.io/4xe9t/)**
 
 **Cotton, K.**, Verghese, J., & Blumen, H. M. (2020). Gray Matter Volume Covariance Networks, Social Support, and Cognition in Older Adults. *The Journals of Gerontology: Series B*, 75(6), 1219-1229. [doi:10.1093/geronb/gbz023](https://doi.org/10.1093/geronb/gbz023)
 
