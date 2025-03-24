@@ -10,7 +10,8 @@ links:
   - label: Bluesky
     url: "https://bsky.app/profile/kllycttn.bsky.social"
   - label: Email
-    url: "mailto:kelly.cotton@stonybrookmedicine.edu"
+    # url: "mailto:kelly.cotton@stonybrookmedicine.edu"
+    url: "mailto:kelmcotton@gmail.com"
 output:
   postcards::trestles
 ---
