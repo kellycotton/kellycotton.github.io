@@ -10,8 +10,7 @@ links:
   - label: Bluesky
     url: "https://bsky.app/profile/kllycttn.bsky.social"
   - label: Email
-    # url: "mailto:kelly.cotton@stonybrookmedicine.edu"
-    url: "mailto:kelmcotton@gmail.com"
+    url: "mailto:kelly.cotton@stonybrook.edu"
 output:
   postcards::trestles
 ---
@@ -22,6 +21,6 @@ My research interests primarily focus on cognitive function across the lifespan,
 
 I completed my PhD in Cognitive and Comparative Psychology at the City University of New York, Graduate Center and graduated from the University of Rochester with a B.S./B.A. in Brain & Cognitive Sciences and Linguistics. I was a postdoctoral researcher at the Albert Einstein College of Medicine.
 
-You can reach me at kelly.cotton@stonybrookmedicine.edu.
+You can reach me at kelly.cotton@stonybrook.edu.
 
 
